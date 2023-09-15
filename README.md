@@ -1,6 +1,6 @@
 # Data Structures Dictionary Project
 
-This project was written for my CS3610 Data Structures class. The purpose of this project was to recreate the C++ map class. 
+This project was written for my CS3610 Data Structures class in Fall of 2022. The purpose of this project was to recreate the C++ map class. 
 
 The only files I modified were dictionary.cc and dictionary.h. Other files were provided by Nasseef Abukamail (professor at Ohio University).
 
